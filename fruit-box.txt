@@ -1,4 +1,5 @@
 Square
 circular
+polygonal
+hexagon
 rectangular
-
