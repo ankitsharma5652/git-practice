@@ -1,5 +1,6 @@
 Square
 circular
 polygonal
-hexagon
+//hexagon
 rectangular
+shape = "All shape"
