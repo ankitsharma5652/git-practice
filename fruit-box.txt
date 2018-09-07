@@ -2,4 +2,5 @@ Square
 circular
 polygonal
 rectangular
+=============================================
 shape = "All shape"
